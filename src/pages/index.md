@@ -27,12 +27,13 @@ sections:
   title: What We Do
   section_id: services
   component: ServicesBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Arctica specialises in purpose-built web sites and progressive web applications
+    with user optimal experiences, tailored to meet the objectives of your business.
   serviceslist:
-  - title: Service Title
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
+  - title: Web sites & Progressive web apps
+    content: Elegant Solutions specialises in purpose-built web sites and progressive
+      web applications with user optimal experiences, tailored to meet the objectives
+      of your business.
   - title: Service Title
     content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
