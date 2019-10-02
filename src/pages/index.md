@@ -30,6 +30,10 @@ sections:
   subtitle: Arctica specialises in purpose-built web sites and progressive web applications
     with user optimal experiences, tailored to meet the objectives of your business.
   serviceslist:
+  - title: Progressive Web Applications
+    content: Save time and money with a progressive web app instead of native apps
+      for multiple platforms. JAMstack PWA means great performance and low hosting
+      costs.
   - title: Web sites & Progressive web apps
     content: Elegant Solutions specialises in purpose-built web sites and progressive
       web applications with user optimal experiences, tailored to meet the objectives
