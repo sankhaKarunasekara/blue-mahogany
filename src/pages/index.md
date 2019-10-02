@@ -34,10 +34,6 @@ sections:
     content: Save time and money with a progressive web app instead of native apps
       for multiple platforms. JAMstack PWA means great performance and low hosting
       costs.
-  - title: Web sites & Progressive web apps
-    content: Elegant Solutions specialises in purpose-built web sites and progressive
-      web applications with user optimal experiences, tailored to meet the objectives
-      of your business.
   - title: Modern Mobile & Web Apps
     content: Responsive mobile-first native and Progressive Web Apps with high-quality
       UI components and cloud service integration powered by  **React Native**, **React
