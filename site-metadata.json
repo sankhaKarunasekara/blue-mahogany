@@ -1,10 +1,11 @@
 {
   "title": "Elegant Solutions",
   "color_scheme": "light",
-  "accent_color": "violet",
+  "accent_color": "blue",
   "header": {
     "title": "Elegant Solutions",
-    "has_nav": true
+    "has_nav": true,
+    "logo_img": "/images/logo-1.png"
   },
   "footer": {
     "content": "&copy; Elegant Solutions. All rights reserved.",
