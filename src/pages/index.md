@@ -54,8 +54,8 @@ sections:
   component: TestimonialsBlock
   subtitle: An optional subtitle of the section
   testimonialslist:
-  - author: John Doe
-    avatar: images/john_doe.jpg
+  - author: Eranga Jayashantha
+    avatar: "/images/eranga.jpg"
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - author: Jane Roe
