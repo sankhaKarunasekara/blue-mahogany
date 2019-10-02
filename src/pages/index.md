@@ -68,8 +68,8 @@ sections:
   title: Latest from the Blog
   section_id: latest-posts
   component: PostsBlock
-  subtitle: An optional subtitle of the section
-  num_posts_displayed: 2
+  subtitle: ''
+  num_posts_displayed: '4'
   actions:
   - label: View Blog
     url: blog/index.html
