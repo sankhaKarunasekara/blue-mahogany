@@ -34,10 +34,10 @@ sections:
     content: Elegant Solutions specialises in purpose-built web sites and progressive
       web applications with user optimal experiences, tailored to meet the objectives
       of your business.
-  - title: Service Title
-    content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius. '
+  - title: Modern Mobile & Web Apps
+    content: Responsive mobile-first native and Progressive Web Apps with high-quality
+      UI components and cloud service integration powered by  **React Native**, **React
+      Native Web**, **Gatsby.js** and **Node.js**.
   - title: Service title
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
