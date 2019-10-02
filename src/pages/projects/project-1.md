@@ -1,13 +1,16 @@
 ---
 title: Astronomers.lk
-subtitle: Astronomical Research Institute, Sri Lanka
-date: '2019-05-10'
-thumb_img_path: images/1_thumb.jpg
-content_img_path: images/1.jpg
+subtitle: Astronomical Research Institute, Sri Lnaka
+date: 2019-02-13T18:30:00Z
+thumb_img_path: "/images/Astronomers.lk.PNG"
+content_img_path: "/images/Astronomers.lk.PNG"
 template: project
-img_path: "/images/Astronomers.lk.PNG"
 
 ---
-Astronomical Research Institute of Sri Lanka is functioned under Celestia Group. We are the most qualified and most experienced Astronomical institute in Sri Lanka. We provide data analysis and research opportunities for our members and network, combining with leading international research institutes. We organize astronomical training programmes, night camps, workshops, stargazing events, public outreach programmes and any technical or enthusiastic sessions related to Astronomy. sponsorship and endorsement of international astronomical organizations. Our team is committed for the continuous improvement of Astronomy and Space science sectors in Sri Lanka by making young astronomers, required for the development of Science and technology fields in the Nation.
+Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
 
-> "THE NEW GENERATION OF SRI LANKAN ASTRONOMY"
+>"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+
+Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+
+Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
