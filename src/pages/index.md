@@ -38,9 +38,12 @@ sections:
     content: Responsive mobile-first native and Progressive Web Apps with high-quality
       UI components and cloud service integration powered by  **React Native**, **React
       Native Web**, **Gatsby.js** and **Node.js**.
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - title: Web Automation
+    content: "**Automation** replaces human work in repetitive, tedious tasks, and
+      minimizes the number of errors. With the right **automation** tools, it is possible
+      to **automate** browser tasks, **web** testing, and online data extraction,
+      to fill forms, scrape data, transfer data between applications, and generate
+      reports"
   - title: Service title
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
