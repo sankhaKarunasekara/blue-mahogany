@@ -52,7 +52,7 @@ sections:
   title: Testimonials
   section_id: testimonials
   component: TestimonialsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   testimonialslist:
   - author: Eranga Jayashantha
     avatar: "/images/eranga.jpg"
