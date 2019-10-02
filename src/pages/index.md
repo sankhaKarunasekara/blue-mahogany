@@ -44,10 +44,9 @@ sections:
       to **automate** browser tasks, **web** testing, and online data extraction,
       to fill forms, scrape data, transfer data between applications, and generate
       reports"
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+  - title: JAMStack Web sites
+    content: 'Get new customers with a faster website with higher SEO chances. We
+      build them with proven technologies: GatsbyJS, Hugo, Netlify, and many others.'
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
