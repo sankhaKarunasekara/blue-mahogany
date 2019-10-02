@@ -1,18 +1,14 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+subtitle: our work
+img_path: "/images/john-schnobrich-FlPc9_VocJ4-unsplash.jpg"
 menus:
   main:
     title: About
     weight: 4
 template: page
+
 ---
+We are a team of passionate web developers who share the vision of websites, that are high-performing, safe, and easy to maintain. We make this vision happening by building serverless Progressive Web Apps and websites on the JAMstack architecture.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+For us, customers really do come first because we help them not only grow their businesses but also educate them to understand the tech behind it.
