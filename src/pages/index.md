@@ -56,8 +56,10 @@ sections:
   testimonialslist:
   - author: Eranga Jayashantha
     avatar: "/images/eranga.jpg"
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    content: t is with great pleasure that I recommend Extreme Web on a job well done.
+      Not only were they technically sound in the subject matter and all related topics
+      but I was particularly happy with the attention to detail that was paid, when
+      it came to designing my corporate site.
   - author: Jane Roe
     avatar: images/jane_roe.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
