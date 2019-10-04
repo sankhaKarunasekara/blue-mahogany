@@ -71,7 +71,7 @@ sections:
   section_id: latest-posts
   component: PostsBlock
   subtitle: ''
-  num_posts_displayed: '4'
+  num_posts_displayed: '3'
   actions:
   - label: View Blog
     url: blog/index.html
