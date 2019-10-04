@@ -56,10 +56,10 @@ sections:
   testimonialslist:
   - author: Eranga Jayashantha
     avatar: "/images/eranga.jpg"
-    content: t is with great pleasure that I recommend Extreme Web on a job well done.
-      Not only were they technically sound in the subject matter and all related topics
-      but I was particularly happy with the attention to detail that was paid, when
-      it came to designing my corporate site.
+    content: t is with great pleasure that I recommend Elegant Solutions on a job
+      well done. Not only were they technically sound in the subject matter and all
+      related topics but I was particularly happy with the attention to detail that
+      was paid, when it came to designing my corporate site.
   - author: Jane Roe
     avatar: images/jane_roe.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
