@@ -19,7 +19,7 @@ sections:
   subtitle: Every project is a new story, yet some things stay the same. We pick a
     dedicated set of tools for each one, for the best performance possible.
   layout_style: mosaic
-  num_projects_displayed: '4'
+  num_projects_displayed: '3'
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: servicesblock
