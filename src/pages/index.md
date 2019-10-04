@@ -61,10 +61,10 @@ sections:
       related topics but I was particularly happy with the attention to detail that
       was paid, when it came to designing my corporate site.
   - author: Jane Roe
-    avatar: images/jane_roe.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+    avatar: "/images/layneLafrance.jpg"
+    content: I hired Sankha and his elegant solutions team as a freelance Javascript
+      developer team in 2016 after seeing their online portfolio, and they completed
+      numerous flawless projects for me since then.
 - type: postsblock
   template: postsblock
   title: Latest from the Blog
