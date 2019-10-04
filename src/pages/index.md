@@ -60,7 +60,7 @@ sections:
       well done. Not only were they technically sound in the subject matter and all
       related topics but I was particularly happy with the attention to detail that
       was paid, when it came to designing my corporate site.
-  - author: Jane Roe
+  - author: Layne Lafrance
     avatar: "/images/layneLafrance.jpg"
     content: I hired Sankha and his elegant solutions team as a freelance Javascript
       developer team in 2016 after seeing their online portfolio, and they completed
